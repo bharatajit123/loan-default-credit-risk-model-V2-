@@ -1,0 +1,32 @@
+# Machine Learning & Data Analysis
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Model Training & Evaluation
+scipy>=1.10.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.20.0
+
+# Model Persistence
+joblib>=1.2.0
+
+# Utilities
+python-dotenv>=0.21.0
+
+# Development
+pytest>=7.2.0
+pytest-cov>=4.0.0
+flake8>=5.0.0
+black>=22.0.0
+
+# Optional: Advanced Models (install as needed)
+# xgboost>=1.7.0
+# lightgbm>=3.3.5
